@@ -1,0 +1,74 @@
+[
+    {
+        "product": "Wireless Mouse",
+        "price": 15.99,
+        "description": "A sleek, ergonomic mouse.",
+        "quantity": 1
+    },
+    {
+        "product": "Bluetooth Speaker",
+        "price": 29.99,
+        "description": "Portable with clear sound.",
+        "quantity": 3
+    },
+    {
+        "product": "USB-C Cable",
+        "price": 7.49,
+        "description": "Fast charging and durable.",
+        "quantity": 7
+    },
+    {
+        "product": "Gaming Keyboard",
+        "price": 49.99,
+        "description": "RGB lighting and mechanical keys.",
+        "quantity": 7
+    },
+    {
+        "product": "Webcam",
+        "price": 25.99,
+        "description": "1080p with built-in mic.",
+        "quantity": 7
+    },
+    {
+        "product": "Power Bank",
+        "price": 19.99,
+        "description": "10,000mAh, compact design.",
+        "quantity": 7
+    },
+    {
+        "product": "Smartwatch",
+        "price": 99.99,
+        "description": "Fitness tracking and notifications.",
+        "quantity": 7
+    },
+    {
+        "product": "Noise Cancelling Headphones",
+        "price": 79.99,
+        "description": "Over-ear and comfortable.",
+        "quantity": 7
+    },
+    {
+        "product": "Laptop Stand",
+        "price": 34.99,
+        "description": "Adjustable height and angle.",
+        "quantity": 7
+    },
+    {
+        "product": "External Hard Drive",
+        "price": 59.99,
+        "description": "1TB storage, USB 3.0.",
+        "quantity": 7
+    },
+    {
+        "product": "mouse",
+        "price": 10.0,
+        "description": "es un mause argentino",
+        "quantity": 7
+    },
+    {
+        "product": "mouse",
+        "price": 12.5,
+        "description": "Un mouse económico y funcional",
+        "quantity": 10
+    }
+]

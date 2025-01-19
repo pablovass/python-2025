@@ -1,0 +1,8 @@
+ LangChain y la programación orientada a objetos van de la mano.
+ Al ser un framework modular, 
+ LangChain utiliza POO para facilitar el desarrollo de flujos de IA de manera estructurada,
+  reutilizable y extensible. Esto no solo es útil en LangChain,
+   sino también en cualquier proyecto de machine learning donde modularidad 
+   y claridad sean esenciales
+
+ By:Pablovass
